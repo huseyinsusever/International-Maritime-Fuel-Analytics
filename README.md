@@ -1,1 +1,6 @@
 # International-Maritime-Fuel-Analytics
+This project, 'International Maritime Fuel Analytics', is a data-driven decision support tool designed to quantify the operational impact of extreme weather on global shipping logistics. Utilizing Python and Pandas, I developed a pipeline to normalize complex JSON voyage data and perform deep-dive analysis on fuel consumption anomalies. The core of this study reveals a 111.41% increase in fuel consumption during Typhoon conditions, resulting in an estimated extra cost of $27,387 per voyage. By bridging maritime expertise with data science, this project demonstrates how predictive analytics can optimize route safety and financial efficiency in the shipping industry."
+
+Türkçe Özeti :
+
+"Bu proje, uluslararası gemi seferlerinde aşırı hava koşullarının (Tayfun) operasyonel maliyetler üzerindeki etkisini ölçümleyen veri odaklı bir karar destek aracıdır. Python ve Pandas kütüphanelerini kullanarak, karmaşık JSON verilerini normalize eden ve yakıt tüketimi anomalilerini analiz eden bir veri hattı oluşturdum. Çalışmanın temel sonucu; tayfun koşullarının yakıt tüketimini %111.41 oranında artırdığını ve sefer başına yaklaşık 27.387$ ek maliyet doğurduğunu kanıtlamaktadır.
